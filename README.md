@@ -59,8 +59,6 @@ netsec-labs/
 ├── diagrams/
 └── runbooks/
 
-yaml
-Copy code
 
 ---
 
